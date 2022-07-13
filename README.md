@@ -8,4 +8,4 @@ JavaScript kullanımı. (Admin ve Emlakçı firmalarına özel yönetim paneli i
 MS SQL SERVER Script for Server Version = SQL Server 2019
 
 Proje detaylarına ve görsellerine ulaşmak için 
-[TIKLAYINIZ](https://l24.im/5rM)
+[TIKLAYINIZ](https://drive.google.com/file/d/1Xno3L-zQ50HtDeV_wfpu7o5RALbHLr8y/view?usp=sharing)
